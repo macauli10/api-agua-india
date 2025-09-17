@@ -3,8 +3,8 @@ https://img.shields.io/badge/Python-3.8%252B-blue
 https://img.shields.io/badge/Pandas-Data%2520Processing-orange
 https://img.shields.io/badge/Architecture-Medalh%C3%B5es%2520(Bronze--Prata--Ouro)-green
 https://img.shields.io/badge/Visualization-PowerBI-yellow
-Projeto completo de Engenharia de Dados para análise da qualidade da água na Índia, envolvendo ETL, tratamento de dados e criação de dashboard analítico.
 
+Projeto completo de Engenharia de Dados para análise da qualidade da água na Índia, envolvendo ETL, tratamento de dados e criação de dashboard analítico.
 📊 Estrutura do Projeto
 text
 API-AGUA-INDIA/
@@ -55,3 +55,4 @@ Produtos:
 agua_gold_mediasML.csv: Dados para modelagem preditiva
 
 agua_gold_flagsBI.csv: Dados com flags de qualidade para dashboard
+eu so quero essa parte, e que voce apenas formate para md arrumando fontes colunas e esse links de imagem estao errados nao aparece
